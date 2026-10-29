@@ -1,0 +1,10 @@
+crear entorno virtual
+
+python -m pipenv install flask pymysql flask-bcrypt
+
+pipenv shell
+
+
+
+
+pipenv run python server.py
